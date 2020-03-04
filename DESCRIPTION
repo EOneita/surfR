@@ -1,0 +1,16 @@
+Package: surfR
+Type: Package
+Title: A Maxed Out Collection of Clean Functions
+Version: 0.1.0
+Author: Elizabeth "Kook" Davis
+Maintainer: Kook <eoneitadavis@gmail.com>
+Description: Where one kook keeps an album of glassy-looking surf spots.
+    [Use four spaces when indenting paragraphs within the Description.]
+License: Creative Commons
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Imports: 
+    dplyr
+URL: https://github.com/EOneita/surfR
+BugReports: https://github.com/EOneita/surfR/issues
